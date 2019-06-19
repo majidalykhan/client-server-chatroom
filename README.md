@@ -9,3 +9,6 @@ Linux C Programming
 <b>How to Run in Linux</b>
 In terminal<br>
 Write Command: gcc -lpthread -o s server.c (For Server),  gcc -lpthread -o c client.c (For Client)
+
+<b>Output</b><br>
+![output](https://user-images.githubusercontent.com/51267704/59765638-f2b30600-92b7-11e9-9ce5-d7d535071f2f.JPG)
